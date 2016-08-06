@@ -369,6 +369,7 @@ ul, ol ,li{ list-style: none; }
 .shuxian{
 	float: left;
 	margin-left: 10px;
+	padding-right: 15px;
 }
 span{
 	display: inline-block;
